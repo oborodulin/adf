@@ -1,0 +1,7 @@
+ohw.exe	D:\utils\bis\Distribution\utils_x86\fnr.exe
+ohw.exe	D:\utils\bis\Distribution\utils_x86\chgcolor.exe
+vrenctrl.exe	D:\utils\bis\Distribution\utils_x86\chgcolor.exe
+vrenctrl.exe	D:\utils\bis\Distribution\utils_x86\7za.exe
+vrc_start.exe	vrenctrl.exe
+wls_redeploy.exe	D:\utils\bis\Distribution\utils_x86\chgcolor.exe
+wls_redeploy.exe	D:\utils\bis\Distribution\utils_x86\7za.exe

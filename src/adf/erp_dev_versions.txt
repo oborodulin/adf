@@ -1,0 +1,3 @@
+ear	erp-help	JDEVADF_12.1.3.0.0_GENERIC_140521.1008.S	JDEVADF_12.1.3.0.0_GENERIC_140521.1008.S
+jar	com.akhz.erp.common.code	1.7.4
+ear	erp	1.2.91.5238	1.2.91.5425

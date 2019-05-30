@@ -1,0 +1,23 @@
+@ECHO OFF
+REM BFCPEOPTIONSTART
+REM Advanced BAT to EXE Converter www.BatToExeConverter.com
+REM BFCPEEXE=D:\utils\releases\cfds\cfds.exe
+REM BFCPEICON=C:\Program Files (x86)\Advanced BAT to EXE Converter v2.94\ab2econv294\icons\icon3.ico
+REM BFCPEICONINDEX=1
+REM BFCPEEMBEDDISPLAY=0
+REM BFCPEEMBEDDELETE=1
+REM BFCPEADMINEXE=0
+REM BFCPEINVISEXE=0
+REM BFCPEVERINCLUDE=1
+REM BFCPEVERVERSION=1.0.0.0
+REM BFCPEVERPRODUCT=Victory CfDS
+REM BFCPEVERDESC=Система дистрибуции командных файлов
+REM BFCPEVERCOMPANY=Victory UMS
+REM BFCPEVERCOPYRIGHT=Copyright (C) 2013-2015 Oleg Borodulin (admin@bis.unimansys.com)
+REM BFCPEEMBED=D:\utils\bis\Distribution\build\win_x64\Bat_To_Exe_Converter.exe
+REM BFCPEEMBED=D:\utils\bis\Distribution\utils_x64\uniconv\uniconv.exe
+REM BFCPEEMBED=D:\utils\bis\Distribution\utils_x64\uniconv\btuc21d3.dll
+REM BFCPEEMBED=D:\utils\bis\Distribution\utils_x64\7za.exe
+REM BFCPEEMBED=D:\utils\bis\Distribution\utils_x64\fnr.exe
+REM BFCPEOPTIONEND
+@ECHO ON

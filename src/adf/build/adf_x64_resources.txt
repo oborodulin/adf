@@ -1,0 +1,4 @@
+ohw.exe	D:\utils\bis\Distribution\utils_x64\chgcolor.exe
+ohw.exe	D:\utils\bis\Distribution\utils_x64\fnr.exe
+vrenctrl.exe	D:\utils\bis\Distribution\utils_x64\chgcolor.exe
+vrenctrl.exe	D:\utils\bis\Distribution\utils_x64\7za.exe

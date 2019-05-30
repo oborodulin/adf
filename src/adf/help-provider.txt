@@ -1,0 +1,8 @@
+<help-provider>
+<help-provider-class>
+property
+ohwConfigFileURL
+ohwconfig.xml
+baseURI
+-help/guide/
+</help-provider>

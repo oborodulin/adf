@@ -1,0 +1,37 @@
+Adf-библиотека		Дата начала разработки	Длительность итерации (дни)
+;
+;  Разделитель значений - TAB
+;  Файл расписания используется только для обновления архивов в тестовой среде TEST
+;  Для разрабатываемых приложений длительность итерации указывается реальная по проекту, а для уже 
+;эксплуатируемых - минимальная (7 дней)
+;-------------------------------------------------------------------------------------------------------
+AdfErpAcka-View.jar	11.01.2016		7
+AdfErpAuto-View.jar	17.12.2015		7
+AdfErpCoal-View.jar	02.02.2015		7
+AdfErpCommon-Model.jar	21.01.2014		7
+AdfErpCommon-View.jar   06.03.2014		7
+AdfErpDef-View.jar	14.04.2015		7
+AdfErpEg-View.jar	03.02.2015		7
+AdfErpHrBase-Model.jar	14.01.2015		7
+AdfErpHrBase-View.jar	14.01.2015		7 	
+AdfErpMeter-View.jar	23.10.2014		7
+AdfErpMsd-View.jar	20.05.2015		7
+AdfErpOpt-View.jar	31.07.2015		7
+AdfErpSacs-View.jar	09.11.2016		14
+AdfErpSvt-View.jar	08.05.2014		7
+AdfErpSystem-Model.jar	04.06.2014		7
+AdfErpSystem-View.jar	04.06.2014		7
+AdfTleArv-Model.jar	18.05.2016		14
+AdfTleArv-View.jar	18.05.2016		14
+AdfTleDic-Model.jar	03.03.2016		14
+AdfTleDic-View.jar	03.03.2016		14
+AdfTleGdc-Model.jar	06.10.2016		14
+AdfTleGdc-View.jar	06.10.2016		14
+AdfTleInstr-Model.jar	19.12.2016		14
+AdfTleInstr-View.jar	19.12.2016		14
+AdfTleRoutes-Model.jar	04.11.2016		14
+AdfTleRoutes-View.jar	04.11.2016		14
+AdfTleUld-Model.jar	06.10.2016		14
+AdfTleUld-View.jar	06.10.2016		14
+AdfTleWeight-Model.jar	21.09.2016		14
+AdfTleWeight-View.jar   21.09.2016		14

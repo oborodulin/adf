@@ -1,0 +1,2 @@
+@Echo Off
+D:\Projects.java\Utils\CIS\wls\wls_redeploy.exe -cf:"D:\Projects.java\Utils\CIS\wls\tle_dev_deploy.cfg" -em:DBG -wh:localhost:7001 -wc:"D:\Projects.java\Utils\CIS\wls\wls_credentials.txt" -vf:"D:\Projects.java\Utils\CIS\wls\tle_dev_versions.txt" -jh:"C:\Progra~1\Java\jdk1.7.0_67" -oh:"C:\oracle\Middleware\Oracle_Home" -we:"C:\oracle\Middleware\Oracle_Home\wlserver\server\bin\setWLSEnv.cmd" -dd:"D:\Projects.java\Distrib\Dev"

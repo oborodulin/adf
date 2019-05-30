@@ -1,0 +1,10 @@
+\build\
+.cmd
+._cmd
+.au3
+.tmp
+.zip
+.rar
+.msi
+.7z
+.sql

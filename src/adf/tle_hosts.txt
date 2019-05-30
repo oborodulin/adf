@@ -1,0 +1,10 @@
+; Перечень хостов с портами серверов приложений TLE-системы, на которых выполняется автономное приложение
+; инструкций пользователя: INT - интегрированный сервер (используется как окружение по умолчанию. Можно указывать context root,
+; подлежащий замене в других окружениях, например, localhost:7101/erp-help), DEV - сервер разработки, TEST - тестовый сервер, 
+; PROD - промышленный сервер
+;
+; Окружение	Каталог OHW-конфигурации	Хост
+INT		heplpsets			localhost:7101/erp-help
+DEV		tle-helpsets			dc11-wlst-01.metinvest.ua:7001/tle-help
+TEST		tle-helpsets			dc11-wlst-02.metinvest.ua:7001/tle-help
+PROD		tle-helpsets			sak-weblogic01.duk.root.local:7001/tle-help
